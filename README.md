@@ -5,7 +5,7 @@
 
 
 ## *Concept:*
-### - [ ] *Build out a Password Validation Check Application* 
+### [ ] *Build out a Password Validation Check Application* 
 ---
 <!-- - this is a bullet -->
 - [ ] simple password validation check in JavaScript
