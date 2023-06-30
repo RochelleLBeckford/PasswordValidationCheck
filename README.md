@@ -2,10 +2,10 @@
 
 <!-- can have readme preview open as well to see how it will appear -->
 <!-- ## this is a sub heading -->
-## *Build out a Password Validation Check Application* 
 
 
 ## *Concept:*
+### - [ ] *Build out a Password Validation Check Application* 
 ---
 <!-- - this is a bullet -->
 - [ ] simple password validation check in JavaScript
