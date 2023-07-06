@@ -20,6 +20,10 @@
 - [ ] Once successfully done the user will be notified that the account has been successfully created
 - [ ]  A Modern and Interactive webpage
 ---
+- [ ] Encompass:
+    - [ ] HTML
+    - [ ] CSS
+    - [ ] JavaScript
 - [ ] HTML → will be the structure and skeleton of how the app will appear on the webpage
 - [ ] CSS → encompass the style of the app and give it some flare
 - [ ] JavaScript → provide the functionality of the page
