@@ -1,11 +1,11 @@
-# PasswordValidationCheck
+# Password Validation Check
 
 <!-- can have readme preview open as well to see how it will appear -->
 <!-- ## this is a sub heading -->
 
 
 ## *Concept:*
-### *Build out a Password Validation Check Application* 
+### *Build out a Password Validation Check Application*
 ---
 <!-- - this is a bullet -->
 - [ ] simple password validation check in JavaScript
